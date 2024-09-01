@@ -1,5 +1,5 @@
-Project 2 - Chess
-Hewitt Li - Li002817 (all work was done by me)
+Minesweeper
+Hewitt Li
 --------------------------------
 Instructions and assumptions:
 You may compile and run the program from the [Main] class which has a main function.
@@ -26,11 +26,3 @@ I have attached a ZIP with version of minesweeper that uses processing to make a
 The main file to run is [visual], and the folder [library] will have to be added as a library to intelliJ.
 Do not feel obligated to try it, its just something I did for fun and may not work. :D
 --------------------------------
-Outside Sources:
-- I have not found the need to use any other additional sources
---------------------------------
-Certify Statement:
- “I certify that the information contained in this README
-file is complete and accurate. I have both read and followed the course policies
-in the ‘Academic Integrity - Course Policy’ section of the course syllabus.”
-- Hewitt Li
