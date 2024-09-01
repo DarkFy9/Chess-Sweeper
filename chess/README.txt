@@ -1,5 +1,5 @@
-Project 2 - Chess
-Hewitt Li - Li002817 (all work was done by me)
+Chess
+Hewitt Li
 --------------------------------
 Instructions and assumptions:
 You may compile and run the program from the [Game] class which has a main function.
@@ -25,8 +25,7 @@ Limitations:
 --------------------------------
 Potential bugs (important):
 As stated in project documentation pieces be displayed as inverted colors depending on console theme.
-A potentially major bug, is the display of blank spaces being inconsistent across devices,
-I have chosen to swap the original given '\u2001' blank space character to '\u2003' for the spaces to show up correctly on my computer
+A potentially major bug, is the display of blank spaces being inconsistent across devices.
 If the spacing seems off or causes issues for testing, you may choose to swap back to the '\u2001' character
 This bug should not affect the actual gameplay and just the display in console;
 --------------------------------
@@ -39,11 +38,3 @@ Additional commands have been outlined in the first section, these commands are 
 There is also a boolean [testmodeEnabled] which can be set to true to enable a mode that takes in a .txt file with moves in list format
 The default file is "test.txt". This mode when enabled will run commands sequentially only from the file. I used this mode to quickly test similar moves.
 --------------------------------
-Outside Sources:
-- I have not found the need to use any other additional sources
---------------------------------
-Certify Statement:
- “I certify that the information contained in this README
-file is complete and accurate. I have both read and followed the course policies
-in the ‘Academic Integrity - Course Policy’ section of the course syllabus.”
-- Hewitt Li
